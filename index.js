@@ -4,6 +4,7 @@ function iterativeLog(array) {
   })
 }
 
-function iteratre() {
-  var array = ["person1"]
+function iterate(callback) {
+  var array = ["person1", "person2"]
+  array.forEach()
 }
